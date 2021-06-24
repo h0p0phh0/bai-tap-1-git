@@ -1,5 +1,5 @@
-function functionDev () { // Declare a function
-    document.getElementById("demo").innerHTML = "devBranch";
+function functionTest () { // Declare a function
+    document.getElementById("demo").innerHTML = "testBranch";
   }
    
-  functionDev ();
+  functionTest ();
