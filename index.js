@@ -3,3 +3,13 @@ function functionDeploy () { // Declare a function
   }
    
   functionDeploy ();
+function functionCheckTask () { // Declare a function
+    document.getElementById("demo").innerHTML = "testTask";
+  }
+   
+  functionCheckTask ();
+  function testCompleted () { // Declare a function
+    document.getElementById("demo").innerHTML = "testComplete";
+  }
+   
+  testCompleted ();
