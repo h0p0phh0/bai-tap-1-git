@@ -1,1 +1,5 @@
-document.querySelector('#demo').innerHTML = 'master';
+function functionCheckTask () { // Declare a function
+    document.getElementById("demo").innerHTML = "testTask";
+  }
+   
+  functionCheckTask ();
