@@ -1,5 +1,5 @@
-function functionTest () { // Declare a function
+function functionDeploy () { // Declare a function
     document.getElementById("demo").innerHTML = "testBranch";
   }
    
-  functionTest ();
+  functionDeploy ();
