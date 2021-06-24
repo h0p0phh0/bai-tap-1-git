@@ -1,24 +1,24 @@
 function functionDeploy() {
   // Declare a function
-  document.getElementById("demo").innerHTML = "testBranch";
+  document.querySelector("#demo").innerHTML = "testBranch";
 }
 
 functionDeploy();
 function functionCheckTask() {
   // Declare a function
-  document.getElementById("demo").innerHTML = "testTask";
+  document.querySelector("#demo").innerHTML = "testTask";
 }
 
 functionCheckTask();
 function testCompleted() {
   // Declare a function
-  document.getElementById("demo").innerHTML = "testComplete";
+  document.querySelector("#demo").innerHTML = "testComplete";
 }
 
 testCompleted();
 function doneTask() {
   // Declare a function
-  document.getElementById("demo").innerHTML = "doneTask";
+  document.querySelector("#demo").innerHTML = "doneTask";
 }
 
 doneTask();
